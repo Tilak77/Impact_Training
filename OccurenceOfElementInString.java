@@ -1,6 +1,6 @@
 import java.util.*;
 
-public class OccurenceOfArray {
+public class OccurenceOfElementInString {
     public static void main(String[] args) {
         Scanner sc=new Scanner(System.in);
         // String arr[]= new String[]{};
