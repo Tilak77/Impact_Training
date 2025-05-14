@@ -10,16 +10,13 @@ public class CheckPerfectSqrFunction{
            int m= (int)Math.sqrt(n);
            if(m*m== n){
             return 1;
-            // System.out.println("Perfect Square");
            }  
            else{
             return 0;
-            // System.out.println("Not");
         }
     }
     else{
         return 0;
-        // System.out.println("Not");
         }
     }
     
